@@ -61,11 +61,12 @@
 <body>
  
     <header>
-<h1>My Simple Website</h1>
+<h1>My updated webpage</h1>
 </header>
  
     <nav>
 <a href="#home">Home</a>
+<a href="#email">Email</a>
 <a href="#about">About</a>
 <a href="#services">Services</a>
 <a href="#contact">Contact</a>
@@ -90,7 +91,14 @@
         <section id="contact">
 <h2>Contact Us</h2>
 <p>Have questions or want to work with us? Reach out to us via the contact form on our website or email us directly.</p>
+
+	</section>
+	<section id="email">
+<h2>Write to us</h2>
+<p>Our email address is devopsengineer1432@gmail.com</p>
 </section>
+</div>
+
 </div>
  
     <footer>
