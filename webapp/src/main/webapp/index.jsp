@@ -80,7 +80,7 @@
  
         <section id="about">
 <h2>About Us</h2>
-<p>Our website provides useful information and services. We aim to deliver high-quality content and a great user experience.</p>
+<p>Our website provides useful information and services. We aim to deliver high-quality content and a great user experience.To know more about our roles, please <a href="https://www.simplilearn.com/devops-engineer-job-description-article">Click</a> here.</p>
 </section>
  
         <section id="services">
