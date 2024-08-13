@@ -97,11 +97,13 @@
 <h2>Write to us</h2>
 <p>Our email address is devopsengineer1432@gmail.com</p>
 </section>
+
 </div>
 
 </div>
  
     <footer>
+	    <h2>Thank You, Keep Visiting For More Updates<h2>	    
 <p>&copy; 2024 My Simple Website. All rights reserved.</p>
 </footer>
  
